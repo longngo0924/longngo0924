@@ -23,10 +23,9 @@
           | |___  | |_| | | |\  | | |_| |   | |\  | | |_| | | |_| |
           |_____|  \___/  |_| \_|  \____|   |_| \_|  \____|  \___/ 
 
+                           • Back-End Developer • ☁️
 
-           Back-End Developer • DevOps/SRE • But Still A Dream ☁️
-
-❯ 📧 Email             long.ngo0924@gmail.com
+❯ 📧 Email            long.ngo0924@gmail.com
 ❯ ✌️ Facebook          long.ngo0924
 ❯ 📱 Phone             +84 (84) 676-2427
 
