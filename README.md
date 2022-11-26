@@ -19,7 +19,7 @@
           | |___  | |_| | | |\  | | |_| |   | |\  | | |_| | | |_| |
           |_____|  \___/  |_| \_|  \____|   |_| \_|  \____|  \___/ 
 
-                           • Back-End Developer • ☁️
+                           • Software Engineer • ☁️
 
 ❯ 📧 Email            long.ngo0924@gmail.com
 ❯ ✌️ Facebook          long.ngo0924
