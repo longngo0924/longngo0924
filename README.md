@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Long Ngo</h1>
-<p align="center">
+<h4 align="center">
   💻 Software Engineer ☁️ AWS Certified Solutions Architect – Professional
-</p>
+</h4>
 <p align="center">
   <!-- Core Tech -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
