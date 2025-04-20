@@ -38,9 +38,9 @@
 
 ## 👋 About Me
 
-I’m a **Senior Software Developer** with a strong focus on **FastAPI**, **Next.js**, and **cloud-native architecture (AWS)** — helping companies build reliable, scalable, and maintainable digital products.
+I’m a **Software Developer** with a strong focus on **FastAPI**, **Next.js**, and **cloud-native architecture (AWS)** — helping companies build reliable, scalable, and maintainable digital products.
 
-With 4+ years of hands-on experience, I work with startups, product teams, and outsourcing partners to:
+With 5+ years of hands-on experience, I work with startups, product teams, and outsourcing partners to:
 
 - ✅ Build backend APIs that scale and are easy to extend  
 - ✅ Develop clean, responsive frontends with modern UI/UX  
