@@ -26,12 +26,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
   <!-- Cloud / DevOps -->
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ---
@@ -42,6 +44,7 @@ I’m a **Software Developer** with a strong focus on **FastAPI**, **Next.js**, 
 
 With 5+ years of hands-on experience, I work with startups, product teams, and outsourcing partners to:
 
+- ✅ Integrate OCR + GenAI to unlock advanced automation use cases
 - ✅ Build backend APIs that scale and are easy to extend  
 - ✅ Develop clean, responsive frontends with modern UI/UX  
 - ✅ Set up DevOps pipelines (CI/CD) and cloud infrastructure for smooth deployment  
@@ -58,6 +61,7 @@ Whether you’re looking to extend your in-house team, build an MVP fast, or nee
 - 🔐 **Insurance**: Claims management, document workflows, secure integrations  
 - 🔋 **Electric Vehicles (EV)**: Real-time fleet tracking, energy analytics, geolocation services  
 - ✈️ **Travel**: Booking systems, dynamic pricing engines, custom dashboards  
+- 🤖 **AI & Automation**: OCR systems integrated with LLMs (Claude, OpenAI), document parsing, GenAI-powered insights
 
 ---
 
