@@ -40,11 +40,11 @@
 
 ## 👋 About Me
 
-I’m a **Software Developer** with a strong focus on **FastAPI**, **Next.js**, and **cloud-native architecture (AWS)** — helping companies build reliable, scalable, and maintainable digital products.
+I’m a **Software Developer** with a strong focus on **FastAPI**, **Next.js**, **GenAI/LLM** and **cloud-native architecture (AWS)** — helping companies build reliable, scalable, and maintainable digital products.
 
 With 5+ years of hands-on experience, I work with startups, product teams, and outsourcing partners to:
 
-- ✅ Integrate OCR + GenAI to unlock advanced automation use cases
+- ✅ Integrate GenAI/LLM to unlock advanced automation use cases
 - ✅ Build backend APIs that scale and are easy to extend  
 - ✅ Develop clean, responsive frontends with modern UI/UX  
 - ✅ Set up DevOps pipelines (CI/CD) and cloud infrastructure for smooth deployment  
