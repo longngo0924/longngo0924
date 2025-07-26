@@ -1,6 +1,6 @@
-<h1 align="center">🚀 Long Ngo</h1>
+<h1 align="center">Hi there 👋 I'm Long 👨‍💻</h1>
 <h4 align="center">
-  💻 Software Engineer ☁️ AWS Certified Solutions Architect – Professional
+  A developer from Vietnam learning every day.
 </h4>
 <p align="center">
   <!-- Core Tech -->
@@ -40,6 +40,15 @@ With 5+ years of hands-on experience, I work with startups, product teams, and o
 Whether you’re looking to extend your in-house team, build an MVP fast, or need a senior dev who can own an entire feature — I’m ready to help you ship with confidence.
 
 💡 _Let’s build something solid together._
+
+---
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i9%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
