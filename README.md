@@ -1,9 +1,8 @@
-<h1 align="center">Hi there 👋 I'm Long 👨‍💻</h1>
-<h4 align="center">
-  A developer from Vietnam learning every day.
-</h4>
+<h1 align="center">Hi, I'm Long 👋</h1>
+<h4 align="center">Full-stack Developer • RAG/LLM Enthusiast • AWS Certified</h4>
+
 <p align="center">
-  <!-- Core Tech -->
+<!-- Core Tech -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -25,54 +24,36 @@
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-I’m a **Software Engineer** with a strong focus on **FastAPI**, **Next.js**, **RAG/LLM** and **Cloud Platform** — helping companies build reliable, scalable, and maintainable digital products.
+I'm a **full-stack developer** passionate about building AI-enabled web applications.  
+My recent focus is on **OCR pipelines**, **RAG (Retrieval-Augmented Generation)**, and **LLM integration** using **Claude**, **OpenAI**, and **LangChain**.
 
-With 5+ years of hands-on experience, I work with startups, product teams, and outsourcing partners to:
-
-- ✅ Integrate RAG/LLM to unlock advanced automation use cases
-- ✅ Build backend APIs that scale and are easy to extend  
-- ✅ Develop clean, responsive frontends with modern UI/UX  
-- ✅ Set up DevOps pipelines (CI/CD) and cloud infrastructure for smooth deployment  
-- ✅ Communicate clearly, deliver on time, and adapt quickly to your team's workflow  
-
-Whether you’re looking to extend your in-house team, build an MVP fast, or need a senior dev who can own an entire feature — I’m ready to help you ship with confidence.
-
-💡 _Let’s build something solid together._
+I help teams ship fast and smart by delivering:
+- Scalable FastAPI backends and modern Next.js frontends  
+- Clean infrastructure with CI/CD on AWS  
+- GenAI-driven workflows that extract, summarize, and respond to real-world data
 
 ---
 
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i9%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
+## 🧠 AI & Industry Work
+
+- 🤖 **AI + Automation**: OCR + LLM (Claude, OpenAI), GenAI data extraction & workflow automation  
+- 🔐 **Insurance**: Claims, secure document flows  
+- 🔋 **EV**: Real-time fleet tracking & analytics  
+- ✈️ **Travel**: Booking flows, pricing engines, dashboards
 
 ---
 
-## 🌍 Industry Experience
+## 📜 Certifications
 
-- 🔐 **Insurance**: Claims management, document workflows, secure integrations  
-- 🔋 **Electric Vehicles (EV)**: Real-time fleet tracking, energy analytics, geolocation services  
-- ✈️ **Travel**: Booking systems, dynamic pricing engines, custom dashboards  
-- 🤖 **AI & Automation**: OCR systems integrated with LLMs (Claude, OpenAI), document parsing, GenAI-powered insights
+- 🏅 [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/d4488845-c210-47e2-98b0-851fdbc3d546/public_url)  
+- 🗄️ [AWS Certified Database – Specialty](https://www.credly.com/badges/b40c6dc9-588d-4955-a005-02d4374420c4/public_url)
 
 ---
 
-## 📜 Certification
+## 📬 Contact
 
-- 🏅 **AWS Certified Solutions Architect – Professional**  
-  [View Credential](https://www.credly.com/badges/d4488845-c210-47e2-98b0-851fdbc3d546/public_url)
-
-- 🗄️ **AWS Certified Database – Specialty**  
-  [View Credential](https://www.credly.com/badges/b40c6dc9-588d-4955-a005-02d4374420c4/public_url)
-
----
-
-## 📫 Contact
-
-- 📧 **Email**: [long.ngo0924@gmail.com](mailto:long.ngo0924@gmail.com)  
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/longngo0924](https://www.linkedin.com/in/longngo0924)  
-- 💻 **GitHub**: [https://github.com/longngo0924](https://github.com/longngo0924)
+<a href="mailto:long.ngo0924@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/longngo0924"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/longngo0924"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
