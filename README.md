@@ -1,18 +1,20 @@
 <h1 align="center">Hi, I'm Long 👋</h1>
-<h4 align="center">Full-stack Developer • RAG/LLM Enthusiast • AWS Certified</h4>
+<h4 align="center">Full-stack Engineer • AI Agent Builder • AWS Certified</h4>
 
 <p align="center">
-<!-- Core Tech -->
+  <!-- Core Tech -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  
+
   <!-- Database -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <!-- Deployment / Infra -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -26,22 +28,14 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack developer** passionate about building AI-enabled web applications.  
-My recent focus is on **OCR pipelines**, **RAG (Retrieval-Augmented Generation)**, and **LLM integration** using **Claude**, **OpenAI**, and **LangChain**.
+I'm a **full-stack engineer** specializing in building **AI-powered agents and RAG/LLM applications**.  
+I help **solo entrepreneurs** move from **MVP prototypes** to **production-grade systems** that are scalable, reliable, and secure.  
 
-I help teams ship fast and smart by delivering:
-- Scalable FastAPI backends and modern Next.js frontends  
-- Clean infrastructure with CI/CD on AWS  
-- GenAI-driven workflows that extract, summarize, and respond to real-world data
-
----
-
-## 🧠 AI & Industry Work
-
-- 🤖 **AI + Automation**: OCR + LLM (Claude, OpenAI), GenAI data extraction & workflow automation  
-- 🔐 **Insurance**: Claims, secure document flows  
-- 🔋 **EV**: Real-time fleet tracking & analytics  
-- ✈️ **Travel**: Booking flows, pricing engines, dashboards
+My toolkit combines:
+- **FastAPI** and **Next.js** for modern, full-stack web apps  
+- **Agentic AI frameworks** such as LangChain, LangGraph and multi-agent pipelines for intelligent workflows  
+- **PostgreSQL** and **MongoDB** for structured and unstructured data  
+- **AWS, Vercel, Supabase** as core infrastructure for cloud-native deployments and CI/CD  
 
 ---
 
