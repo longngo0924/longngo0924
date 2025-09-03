@@ -29,7 +29,7 @@
 ## 🚀 About Me
 
 I'm a **full-stack engineer** specializing in building **AI-powered agents and RAG/LLM applications**.  
-I help **solo entrepreneurs** move from **MVP prototypes** to **production-grade systems** that are scalable, reliable, and secure.  
+I love to help **solo entrepreneurs** move from **MVP prototypes** to **production-grade systems** that are scalable, reliable, and secure.  
 
 My toolkit combines:
 - **FastAPI** and **Next.js** for modern, full-stack web apps  
