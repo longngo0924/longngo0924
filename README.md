@@ -28,14 +28,10 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack engineer** specializing in building **AI-powered agents and RAG/LLM applications**.  
-I love to help **solo entrepreneurs** move from **MVP prototypes** to **production-grade systems** that are scalable, reliable, and secure.  
+**Full-stack engineer** crafting **AI agents** and **RAG/LLM systems** that feel seamless, smart, and production-ready.  
+I design and ship **scalable, high-performance platforms** powered by modern AI and cloud tech.
 
-My toolkit combines:
-- **FastAPI** and **Next.js** for modern, full-stack web apps  
-- **Agentic AI frameworks** such as LangChain, LangGraph and multi-agent pipelines for intelligent workflows  
-- **PostgreSQL** and **MongoDB** for structured and unstructured data  
-- **AWS, Vercel, Supabase** as core infrastructure for cloud-native deployments and CI/CD  
+**Tech stack:** FastAPI, React.js, Next.js, LangChain, PostgreSQL, MongoDB, AWS, Serverless.
 
 ---
 
